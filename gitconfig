@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = appavoodavissen@gmail.com
+	name = davissen appavoo
